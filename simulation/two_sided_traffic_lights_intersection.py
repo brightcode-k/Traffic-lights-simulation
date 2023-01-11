@@ -23,6 +23,7 @@ CONFIG
     'curve': 7,
     'size': 40
 }
+
 """
 )
 inp = int(input('Choose configuration:\n'))
